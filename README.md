@@ -1,4 +1,7 @@
 # Alouer
+<img alt="image" src="https://github.com/user-attachments/assets/ca3eb404-38f7-4a2e-8294-1bdc1c122a05" />
+
+<br>
 
 A lesson booking system for the SOEN342 course, created by team 6.
 
